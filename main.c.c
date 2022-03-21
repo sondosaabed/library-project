@@ -1,6 +1,4 @@
 //Sondos Aabed
-//1190652
-//Dr. Wahbeh Eid lab2
 #include <stdio.h>
 #include <stdlib.h>
 #define MAXSIZE 100
